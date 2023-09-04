@@ -1,0 +1,20 @@
+O que? Como? Quem? Por que? Onde? Quando?
+
+
+Aplicativo Web
+Feed de notícias (design semelhante ao Instagram)
+Mapa Geolocalizado 
+Pontos de Interesse no mapa
+O cliente clicará e visualizará a história do imóvel selecionado
+A ideia é que haja anúncios de descontos, por exemplo: o cliente clica no bar X e descobre que naquele dia está havendo um desconto na happy hour
+Quem poderia publicar: somente o administrador
+Disponibiliza a história dos imóveis
+Comentários sobre experiências do usuário que passariam pelo crivo do administrador antes de serem publicados
+História e comentários arquitetônicos dos locais turísticos 
+Haverá um rankeamento de clientes mais fiéis (mais cariocas, por exemplo)
+O feed será ordenado pelas postagens mais recentes
+A primeira coisa que aparece para o cliente é um mapa, com um monte de ponto de interesse azul
+Os dados vêm do cadastro dos imóveis - há uma aplicação web onde os imóveis são cadastrados. API do Google Maps
+
+
+Para o dia 11/09: Entendimento que tivemos e Propósito do sistema (nossa parte) - COLOCAR NO REPOSITÓRIO DO GRUPO.
