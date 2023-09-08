@@ -17,3 +17,40 @@ Ele deve ser acessível em qualquer lugar do Rio de Janeiro e permitirá que os 
 6. Quando? O projeto terá uma fase inicial de planejamento e design, seguida pelo desenvolvimento, testes e lançamento.
 O cronograma prevê o lançamento do aplicativo antes da próxima alta temporada de turismo no Rio de Janeiro, garantindo
 que ele esteja disponível para os visitantes.
+
+
+
+"""
+Conteúdo anotado durante a reunião:
+
+Cadastra imóveis como pontos de interesse (turistas e visitantes)
+
+Desafio: Feed de notícias (História de cada imóveis)
+
+Publicação de anúncios Ex: Bares, restaurantes, etc perto dos pontos turísticos
+
+Designe Instagram e não a funcionalidade
+
+Pontos de interesse(google maps) mostra fotos e história do lugar(imóvel)
+
+Patrocinador do passeio carioca é uma imobiliária
+
+Interação usuário e feed de notícias: (comentário do usuário pode ser publicado em determinado local)
+
+Monetização são parcerias de estabelecimentos com o passeio carioca
+
+Foco do App: Contar apenas a história do imóvel
+
+Curtidas e favoritos dos locais
+
+Conteúdo Voltado para um turismo arquitetônico voltado mais para uma história atual (ex: prédio de ****Machado de Assis****.)
+
+Ter curiosidades dos imóveis desde pequenos a grandes detalhes de figuras que já moraram ou tiveram uma breve história 
+
+Estatuas contando vivências, como se estivesse viva no local pelo app (Usar IA para dar vida à essas personalidades)
+
+Primeira coisa que aparece é o mapa do Rio de Janeiro no aplicativo
+
+Instagram: @riocasaseprediosantigos
+
+"""
