@@ -1,9 +1,9 @@
-#Passeio Carioca - README
+# Passeio Carioca - README
 
-##Descrição do Aplicativo:
+## Descrição do Aplicativo:
   O Passeio Carioca é um aplicativo web que combina a funcionalidade do Instagram com o Google Maps, criando uma experiência única para turistas e visitantes que desejam explorar a rica história arquitetônica do Rio de Janeiro. O objetivo principal do aplicativo é fornecer informações detalhadas sobre imóveis históricos, pontos de interesse e eventos acontecendo na cidade, especialmente na zona sul até o recreio.
 
-###Funcionalidades Principais:
+### Funcionalidades Principais:
   1- Mapa Geolocalizado: Ao iniciar o aplicativo, os usuários são apresentados a um mapa do Rio de Janeiro com vários pontos de interesse marcados em azul.
 
   2- Pontos de Interesse: Cada ponto de interesse no mapa corresponde a um imóvel histórico ou local turístico. Os dados sobre esses pontos vêm do cadastro feito pelos administradores.
@@ -20,7 +20,7 @@
 
   8- API do Google Maps: O aplicativo utiliza a API do Google Maps para exibir informações geolocalizadas e pontos de interesse.
 
-###Como Usar:
+### Como Usar:
   Ao iniciar o aplicativo, você será recebido com um mapa do Rio de Janeiro.
 
   Clique em um ponto de interesse azul no mapa para acessar informações detalhadas sobre o imóvel ou local turístico correspondente.
@@ -29,7 +29,7 @@
 
   Deixe seus comentários sobre a história dos locais, enriquecendo a comunidade e a experiência de outros usuários.
 
-###Desenvolvimento Técnico:
+### Desenvolvimento Técnico:
   Linguagem: O aplicativo foi desenvolvido utilizando a linguagem React.
 
   Administração de Conteúdo: Somente o administrador tem a capacidade de adicionar ou remover imóveis e publicar anúncios.
