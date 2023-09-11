@@ -35,3 +35,33 @@
   **Administração de Conteúdo:** Somente o administrador tem a capacidade de adicionar ou remover imóveis e publicar anúncios.
 
   **Origem dos Dados:** Os dados sobre os imóveis e pontos de interesse vêm do cadastro feito pelos administradores e da API do Google Maps.
+
+
+### 5W2H:
+**1. O Quê?**
+O projeto consiste no desenvolvimento de um aplicativo dedicado ao cadastro de imóveis como pontos de interesse para turistas e visitantes na cidade do Rio de Janeiro. Este aplicativo permitirá que os usuários acessem informações detalhadas sobre os imóveis cadastrados, incluindo fotos, histórias e curiosidades relacionadas a esses locais.
+
+**2. Como?**
+O aplicativo será desenvolvido utilizando tecnologias móveis, com ênfase na utilização do framework React Native. Isso possibilitará o suporte às plataformas Android e iOS, proporcionando uma experiência de uso consistente em ambos os sistemas operacionais.
+
+**3. Quem?**
+O público-alvo deste aplicativo abrange turistas, visitantes e moradores interessados em explorar a rica arquitetura e história dos imóveis no Rio de Janeiro. O aplicativo foi projetado para atender aos interesses tanto do turismo arquitetônico quanto da curiosidade histórica, tornando-o acessível a um amplo espectro de usuários.
+
+**4. Por Quê?**
+O propósito fundamental do desenvolvimento deste aplicativo é oferecer aos usuários informações valiosas sobre a história e a arquitetura dos imóveis no Rio de Janeiro. Espera-se que essa iniciativa enriqueça a experiência turística na cidade, promova o turismo sustentável e atraia potenciais patrocinadores, incluindo imobiliárias interessadas em promover os imóveis cadastrados.
+
+**5. Onde?**
+O aplicativo estará disponível para download e uso em dispositivos móveis, como smartphones e tablets. Ele foi projetado para ser acessível em qualquer local do Rio de Janeiro, permitindo que os usuários encontrem facilmente pontos de interesse no mapa da cidade.
+
+**6. Quando?**
+O projeto seguirá um cronograma definido, que incluirá as seguintes etapas:
+
+Fase de Planejamento e Design: Nesta fase inicial, serão definidos os requisitos e a interface do aplicativo.
+
+Desenvolvimento: Após o planejamento, a equipe iniciará o desenvolvimento do aplicativo.
+
+Testes: O aplicativo passará por testes rigorosos para garantir sua qualidade e funcionamento adequado.
+
+Lançamento: O lançamento do aplicativo está previsto para ocorrer antes da próxima alta temporada de turismo no Rio de Janeiro, assegurando que ele esteja disponível para os visitantes durante esse período.
+
+
