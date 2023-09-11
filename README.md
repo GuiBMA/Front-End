@@ -56,12 +56,9 @@ O aplicativo estará disponível para download e uso em dispositivos móveis, co
 **6. Quando?**
 O projeto seguirá um cronograma definido, que incluirá as seguintes etapas:
 
-Fase de Planejamento e Design: Nesta fase inicial, serão definidos os requisitos e a interface do aplicativo.
-
-Desenvolvimento: Após o planejamento, a equipe iniciará o desenvolvimento do aplicativo.
-
-Testes: O aplicativo passará por testes rigorosos para garantir sua qualidade e funcionamento adequado.
-
-Lançamento: O lançamento do aplicativo está previsto para ocorrer antes da próxima alta temporada de turismo no Rio de Janeiro, assegurando que ele esteja disponível para os visitantes durante esse período.
+- Fase de Planejamento e Design: Nesta fase inicial, serão definidos os requisitos e a interface do aplicativo.
+- Desenvolvimento: Após o planejamento, a equipe iniciará o desenvolvimento do aplicativo.
+- Testes: O aplicativo passará por testes rigorosos para garantir sua qualidade e funcionamento adequado.
+- Lançamento: O lançamento do aplicativo está previsto para ocorrer antes da próxima alta temporada de turismo no Rio de Janeiro, assegurando que ele esteja disponível para os visitantes durante esse período.
 
 
