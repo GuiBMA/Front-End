@@ -1,0 +1,60 @@
+Requisitos Funcionais:
+
+1. Cadastro de Imóveis e Pontos de Interesse:
+    -Os administradores devem ser capazes de adicionar, editar e remover imóveis históricos 
+     e pontos de interesse no aplicativo.
+2. Exibição de Mapa Geolocalizado:
+    -Os administradores devem ser capazes de adicionar, editar e remover imóveis históricos e pontos de 
+     interesse no aplicativo.
+3.Detalhes de Imóveis:
+    -Os usuários devem ser capazes de visualizar informações detalhadas sobre cada ponto 
+     de interesse, incluindo história, curiosidades e detalhes arquitetônicos.
+4.Feed de Notícias:
+    -O aplicativo deve fornecer um feed de notícias semelhante ao Instagram que exibe
+     postagens sobre imóveis, eventos e anúncios de descontos em estabelecimentos 
+     próximos aos pontos de interesse.
+5.Comentários dos Usuários:
+    -Os usuários devem poder deixar comentários nas postagens do feed de notícias, 
+     especialmente sobre a história dos locais.
+6.Anúncios e Descontos:
+    -Os administradores devem poder publicar anúncios no feed de notícias, incluindo
+     informações sobre descontos em bares e restaurantes próximos aos pontos turísticos.
+7.Ranking de Clientes Fiéis:
+    -O aplicativo deve manter um ranking dos usuários mais ativos e fiéis com base em sua 
+     interação com o aplicativo.
+8.Integração com API do Google Maps:
+    -O aplicativo deve usar a API do Google Maps para exibir informações geolocalizadas e 
+     pontos de interesse no mapa.
+
+Requisitos Não Funcionais
+
+1.Desempenho:
+    -O aplicativo deve ser responsivo e rápido ao carregar mapas, imagens e conteúdo do 
+     feed de notícias.
+2.Segurança:
+    -Os dados dos usuários e informações de autenticação devem ser protegidos por 
+     medidas de segurança adequadas.
+3.Escalabilidade:
+    -O sistema deve ser capaz de lidar com um aumento no número de usuários, pontos de 
+     interesse e postagens no feed de notícias sem degradação significativa do desempenho.
+4.Compatibilidade de Plataforma:
+    -O aplicativo deve ser compatível com dispositivos Android e iOS para alcançar um 
+     público mais amplo.
+5.Acessibilidade:
+    -O aplicativo deve ser acessível a pessoas com deficiências, seguindo diretrizes de 
+     acessibilidade da web.
+6.Disponibilidade:
+    -O aplicativo deve ter alta disponibilidade, minimizando períodos de inatividade 
+     planejados e não planejados.
+7.Gerenciamento de Conteúdo:
+    -O sistema de gerenciamento de conteúdo para administradores deve ser eficiente e 
+     intuitivo para facilitar a adição e edição de informações.
+8.Integração com Redes Sociais:
+    -Deve ser possível compartilhar postagens do feed de notícias em redes sociais 
+     populares, como Instagram e Facebook.
+9.Resposta a Picos de Tráfego:
+    -O aplicativo deve ser capaz de lidar com picos de tráfego durante eventos ou períodos de 
+     alta demanda, mantendo a qualidade de serviço.
+10.Armazenamento de Dados:
+    -Os dados do aplicativo devem ser armazenados de forma segura e escalável, com 
+     backups regulares.
