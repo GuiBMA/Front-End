@@ -3,3 +3,5 @@ Casos de Uso - aprofundar quarta-feira
 Apagar os "títulos" dos requisitos funcionais e não funcionais (não cateorizar, deixar apenas os bullet points)
 
 O sujeito do requisito é sempre o sistema
+
+Remover informações que não são do sistema do readme e botar em documentação a parte, porém criar texto clicável (link) que leva até o documento que contém essas informações adicionais
