@@ -40,3 +40,7 @@
 
 ## Propósito do Feed de Notícias:
   - O feed de notícias permitirá ao usuário obter as últimas atualizações sobre imóveis, eventos e descontos em bares e restaurantes e deixar seus comentários sobre a história dos locais, enriquecendo a comunidade e a experiência de outros usuários.
+
+## Protótipo no Figma:
+
+  - Para ver o protótipo no Figma [Clique aqui](https://www.figma.com/file/TZKPPiPGJN272c5gvNoLDU/Untitled?type=design&node-id=0%3A1&mode=design&t=a8n63SUSurKuNbyY-1)
