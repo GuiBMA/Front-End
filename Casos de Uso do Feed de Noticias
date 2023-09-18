@@ -1,0 +1,50 @@
+Casos de Uso do Feed de Noticias :
+
+Título: Visualizar Feed de Notícias no Passeio Carioca 
+
+Ator Principal: Usuário Cadastrado
+
+Objetivo: O objetivo deste caso de uso é permitir que os usuários
+registrados no aplicativo Passeio Carioca visualizem o feed de notícias para obter informações atualizadas sobre imóveis, eventos e descontos em bares e restaurantes no Rio de Janeiro.
+
+Pré-condições:
+
+- O usuário já está logado na sua conta do Passeio Carioca.
+- O usuário tem uma conexão ativa com a internet.
+- O aplicativo está funcionando corretamente.
+
+Fluxo Principal:
+
+O usuário abre o aplicativo do Passeio Carioca.
+
+O sistema exibe a tela inicial do aplicativo.
+
+O usuário seleciona a opção "Feed de Notícias" na barra de navegação/menu principal.
+
+O sistema carrega o feed de notícias, que inclui postagens relacionadas a imóveis, eventos e descontos em bares e restaurantes no Rio de Janeiro.
+
+O usuário rola verticalmente para percorrer todo o  feed de notícias.
+
+O sistema exibe as postagens, cada uma contendo:
+
+- Uma imagem relacionada ao imóvel, evento ou oferta de restaurante.
+- Um texto descritivo que fornece informações sobre o item destacado na postagem.
+
+O usuário pode interagir com as postagens da seguinte forma:
+
+- Clicar em "Curtir" para indicar que gostou da postagem.
+- Clicar em "Comentar" para adicionar um comentário à postagem.
+- Clicar em "Compartilhar" para compartilhar a postagem com outros usuários do aplicativo.
+- Clicar na imagem ou no texto da postagem para obter mais detalhes sobre o item em questão
+
+Fluxo Alternativo:
+
+Sem Conexão à Internet:
+Se o usuário não tiver uma conexão ativa com a internet, o sistema exibirá uma mensagem de erro e solicitará que o usuário verifique sua conexão antes de continuar.
+
+Pós-condições:
+
+- O usuário pode continuar navegando no feed de notícias para obter informações atualizadas sobre imóveis, eventos e ofertas em bares e restaurantes no Rio de Janeiro.
+
+- O usuário pode interagir com as postagens, deixando curtidas e comentários, para compartilhar suas opiniões e experiências com outros usuários.
+
