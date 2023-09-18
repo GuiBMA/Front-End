@@ -49,7 +49,7 @@
 
 - **Onde?** Dentro do aplicativo web "Passeio Carioca".
 
-- **Quando?** 
+- **Quando?** O usuário irá utilizar o sistema quando estiver buscando notícias turísticas para inspiração de viagens, destacando destinos históricos e culturais, locais icônicos e conexões com figuras famosas, tornando as viagens mais significativas e autênticas.
 
 ### Requisitos Funcionais para o Feed de Notícias:
 
