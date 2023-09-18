@@ -61,4 +61,51 @@ O projeto seguirá um cronograma definido, que incluirá as seguintes etapas:
 - Testes: O aplicativo passará por testes rigorosos para garantir sua qualidade e funcionamento adequado.
 - Lançamento: O lançamento do aplicativo está previsto para ocorrer antes da próxima alta temporada de turismo no Rio de Janeiro, assegurando que ele esteja disponível para os visitantes durante esse período.
 
+### Requisitos Funcionais para o Feed de Notícias:
 
+**1. Exibição de Postagens:**
+   - O feed de notícias deve exibir postagens de forma organizada e cronológica para os usuários.
+
+**2. Filtragem por Categoria:**
+   - Os usuários devem poder filtrar as postagens por categorias, como "Imóveis Históricos", "Eventos" e "Descontos em Restaurantes".
+
+**3. Comentários e Interação:**
+   - Os usuários devem ser capazes de deixar comentários nas postagens para interagir com outros usuários e fornecer feedback.
+
+**4. Publicação de Postagens:**
+   - Os administradores devem ter a capacidade de criar e publicar postagens no feed de notícias, incluindo texto, imagens e links.
+
+**5. Controle de Privacidade:**
+   - Os administradores devem poder definir a visibilidade das postagens (pública, somente para usuários cadastrados, etc.).
+
+**6. Edição e Remoção de Postagens:**
+   - Os administradores devem ser capazes de editar ou remover suas próprias postagens, se necessário.
+
+### Requisitos Não Funcionais para o Feed de Notícias:
+
+**1. Desempenho Rápido:**
+   - O feed de notícias deve ser carregado rapidamente, minimizando os tempos de carregamento das postagens e imagens.
+
+**2. Segurança de Dados:**
+   - As informações do feed de notícias, incluindo comentários dos usuários, devem ser protegidas e armazenadas de forma segura.
+
+**3. Escalabilidade:**
+   - O sistema deve ser escalável para acomodar um grande número de postagens e interações à medida que o aplicativo cresce.
+
+**4. Integração com Redes Sociais:**
+   - Os usuários devem ser capazes de compartilhar postagens do feed em redes sociais populares, como Facebook, Twitter e Instagram.
+
+**5. Notificações:**
+   - Os usuários devem poder optar por receber notificações de novas postagens ou comentários nas postagens que os interessam.
+
+**6. Compatibilidade de Dispositivos:**
+   - O feed de notícias deve ser acessível e exibido corretamente em dispositivos móveis, tablets e desktops.
+
+**7. Acessibilidade:**
+   - O feed de notícias deve ser acessível a todas as pessoas, incluindo aquelas com deficiências, seguindo diretrizes de acessibilidade da web.
+
+**8. Resposta a Picos de Tráfego:**
+   - O feed de notícias deve ser capaz de lidar com picos de tráfego durante eventos ou períodos de alta demanda sem degradação significativa do desempenho.
+
+**9. Armazenamento de Conteúdo:**
+   - As postagens e imagens do feed de notícias devem ser armazenadas de forma eficiente e com backup regular.
