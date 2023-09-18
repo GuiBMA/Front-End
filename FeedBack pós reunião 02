@@ -5,3 +5,5 @@ Apagar os "títulos" dos requisitos funcionais e não funcionais (não cateoriza
 O sujeito do requisito é sempre o sistema
 
 Remover informações que não são do sistema do readme e botar em documentação a parte, porém criar texto clicável (link) que leva até o documento que contém essas informações adicionais
+
+Criar no figma as telas do sistema e deixar o link disponível no readme
