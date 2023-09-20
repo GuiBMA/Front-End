@@ -1,6 +1,6 @@
 # ***Passeio Carioca***
 
-## **Resumo do App:**
+## Resumo do App:
 - Para ver um resumo geral do App [Clique aqui.](https://github.com/GuiBMA/Front-End/blob/main/ResumodoAppPasseioCarioca.md)
 
 ## 5W2H para o Feed de Notícias:
@@ -44,6 +44,27 @@
 
 ## Propósito do Feed de Notícias:
   - O feed de notícias permitirá ao usuário obter as últimas atualizações sobre imóveis, eventos e descontos em bares e restaurantes e deixar seus comentários sobre a história dos locais, enriquecendo a comunidade e a experiência de outros usuários.
+
+## Casos de Uso do Feed de Noticias:
+  - Ator Principal: Usuário Cadastrado
+
+  - Objetivo: O objetivo deste caso de uso é permitir que os usuários registrados no aplicativo Passeio Carioca visualizem o feed de notícias para obter informações atualizadas sobre imóveis, eventos e descontos em bares e restaurantes no Rio de Janeiro.
+
+### Pré-condições:
+  - O usuário já está logado na sua conta do Passeio Carioca.
+    
+  - O usuário tem uma conexão ativa com a internet.
+    
+  - O aplicativo está funcionando corretamente.
+
+### O usuário pode interagir com as postagens da seguinte forma:
+  - Clicar em "Curtir" para indicar que gostou da postagem.
+    
+  - Clicar em "Comentar" para adicionar um comentário à postagem.
+    
+  - Clicar em "Compartilhar" para compartilhar a postagem com outros usuários do aplicativo.
+    
+  - Clicar na imagem ou no texto da postagem para obter mais detalhes sobre o item em questão
 
 ## Protótipo no Figma:
 
