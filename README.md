@@ -46,9 +46,15 @@
   - O feed de notícias permitirá ao usuário obter as últimas atualizações sobre imóveis, eventos e descontos em bares e restaurantes e deixar seus comentários sobre a história dos locais, enriquecendo a comunidade e a experiência de outros usuários.
 
 ## Casos de Uso do Feed de Noticias:
-  - Ator Principal: Usuário Cadastrado
 
+### Nome:
+  - Visualizar Feed de Notícias no Passeio Carioca
+
+### Descrição:
   - Objetivo: O objetivo deste caso de uso é permitir que os usuários registrados no aplicativo Passeio Carioca visualizem o feed de notícias para obter informações atualizadas sobre imóveis, eventos e descontos em bares e restaurantes no Rio de Janeiro.
+
+### Atores:
+  - Ator Principal: Usuário Cadastrado
 
 ### Pré-condições:
   - O usuário já está logado na sua conta do Passeio Carioca.
@@ -56,6 +62,23 @@
   - O usuário tem uma conexão ativa com a internet.
     
   - O aplicativo está funcionando corretamente.
+
+### Fluxo Principal:
+  - O usuário abre o aplicativo do Passeio Carioca.
+
+  - O sistema exibe a tela inicial do aplicativo.
+
+  - O usuário seleciona a opção "Feed de Notícias" na barra de navegação/menu principal.
+
+  - O sistema carrega o feed de notícias, que inclui postagens relacionadas a imóveis, eventos e descontos em bares e restaurantes no Rio de Janeiro.
+
+  - O usuário rola verticalmente para percorrer todo o  feed de notícias.
+
+  - O sistema exibe as postagens, cada uma contendo:
+
+  - Uma imagem relacionada ao imóvel, evento ou oferta de restaurante.
+  
+  - Um texto descritivo que fornece informações sobre o item destacado na postagem.
 
 ### O usuário pode interagir com as postagens da seguinte forma:
   - Clicar em "Curtir" para indicar que gostou da postagem.
@@ -65,6 +88,10 @@
   - Clicar em "Compartilhar" para compartilhar a postagem com outros usuários do aplicativo.
     
   - Clicar na imagem ou no texto da postagem para obter mais detalhes sobre o item em questão
+
+### Fluxo Alternativo:
+    
+  - Se o usuário não tiver uma conexão ativa com a internet, o sistema exibirá uma mensagem de erro e solicitará que o usuário verifique sua conexão antes de continuar.
 
 ## Protótipo no Figma:
 
