@@ -1,7 +1,7 @@
 # ***Passeio Carioca***
 
 ## **Resumo do App:**
-- Para ter uma ideia geral do App [Clique aqui](https://github.com/GuiBMA/Front-End/blob/main/Resumo%20do%20App%20Passeio%20Carioca)
+- Para ter uma ideia geral do App [Clique aqui](https://github.com/GuiBMA/Front-End/blob/main/ResumodoAppPasseioCarioca.md)
 
 ## 5W2H para o Feed de Notícias:
 
