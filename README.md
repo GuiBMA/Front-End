@@ -19,7 +19,7 @@
 
 ## Requisitos Funcionais para o Feed de Notícias:
 
-|   | Requisitos Funcionais |
+|   | **Requisitos Funcionais** |
 | --- |  --- |
 |  **Exibição de Postagens:**  | o sistema deve exibir postagens de forma organizada e cronológica para os usuários.  |
 |  **Filtragem por Categoria:**  | o sistema deve permitir aos usuários filtrar as postagens por categorias, como "Imóveis Históricos", "Eventos" e "Descontos em Restaurantes".  |
@@ -30,7 +30,7 @@
 
 ## Requisitos Não Funcionais para o Feed de Notícias:
 
-|   | Requisitos Não Funcionais |
+|   | **Requisitos Não Funcionais** |
 | --- |  --- |
 |  **Desempenho Rápido:**  | o sistema deve ser carregado rapidamente, minimizando os tempos de carregamento das postagens e imagens. (?) VAGO  |
 |  **Segurança de Dados:**  | As informações do feed de notícias, incluindo comentários dos usuários, devem ser protegidas e armazenadas de forma segura. (?) DIZ RESPEITO AO FEED?  |
