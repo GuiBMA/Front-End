@@ -80,15 +80,6 @@
   
   - Um texto descritivo que fornece informações sobre o item destacado na postagem.
 
-### O usuário pode interagir com as postagens da seguinte forma:
-  - Clicar em "Curtir" para indicar que gostou da postagem.
-    
-  - Clicar em "Comentar" para adicionar um comentário à postagem.
-    
-  - Clicar em "Compartilhar" para compartilhar a postagem com outros usuários do aplicativo.
-    
-  - Clicar na imagem ou no texto da postagem para obter mais detalhes sobre o item em questão
-
 ### Fluxo Alternativo:
     
   - Se o usuário não tiver uma conexão ativa com a internet, o sistema exibirá uma mensagem de erro e solicitará que o usuário verifique sua conexão antes de continuar.
