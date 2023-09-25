@@ -17,7 +17,9 @@
 
 - **Quando?** O usuário irá utilizar o sistema quando estiver buscando notícias turísticas para inspiração de viagens, destacando destinos históricos e culturais, locais icônicos e conexões com figuras famosas, tornando as viagens mais significativas e autênticas.
 
-### **Requisitos funcionais e não funcionais para o Feed de Notícias:**
+## **Requisitos para o Feed de Notícias:**
+
+### **Requisitos Funcionais para o Feed de Notícias:**
 
 | **Requisitos Funcionais** |
 | --- |
@@ -28,6 +30,7 @@
 | O sistema deve permitir aos administradores definir a visibilidade das postagens (pública, somente para usuários cadastrados, etc.). |
 | O sistema deve permitir aos administradores editar ou remover suas próprias postagens, se necessário. |
 
+### **Requisitos Não Funcionais para o Feed de Notícias:**
 
 | **Requisitos Não Funcionais** |
 | --- |
