@@ -30,17 +30,13 @@
 
 ## Requisitos Não Funcionais para o Feed de Notícias:
 
-|   | **Requisitos Não Funcionais** |
-| --- |  --- |
-|  **Desempenho Rápido:**  | o sistema deve ser carregado rapidamente, minimizando os tempos de carregamento das postagens e imagens. (?) VAGO  |
-|  **Segurança de Dados:**  | As informações do feed de notícias, incluindo comentários dos usuários, devem ser protegidas e armazenadas de forma segura. (?) DIZ RESPEITO AO FEED?  |
-|  **Escalabilidade:**  | o sistema deve ser escalável para acomodar um grande número de postagens e interações à medida que o aplicativo cresce. (?) VAGO. DIZ RESPEITO AO FEED?  |
-|  **Integração com Redes Sociais:**  | o sistema deve permitir aos usuários devem compartilhar postagens do feed em redes sociais populares, como Facebook, Twitter e Instagram. |
-|  **Notificações:**  | o sistema deve permitir aos usuários optar por receber notificações de novas postagens ou comentários nas postagens que os interessam.  |
-|  **Compatibilidade de Dispositivos:**  | o sistema deve ser acessível e exibido corretamente em dispositivos móveis, tablets e desktops. (?) VAGO  |
-|  **Acessibilidade:**  | o sistema deve ser acessível a todas as pessoas, incluindo aquelas com deficiências, seguindo diretrizes de acessibilidade da web. (?) COMO?  |
-|  **Resposta a Picos de Tráfego:**  | o sistema deve ser capaz de lidar com picos de tráfego durante eventos ou períodos de alta demanda sem degradação significativa do desempenho. (?) VAGO. DIZ RESPEITO AO FEED?  |
-|  **Armazenamento de Conteúdo:**  | As postagens e imagens do feed de notícias devem ser armazenadas de forma eficiente e com backup regular. (?) DIZ RESPEITO AO FEED?  |
+| **Requisitos Não Funcionais** |
+|  --- |
+| O sistema deve permitir aos usuários compartilhar postagens do feed em redes sociais populares, como Facebook, Twitter e Instagram. |
+| O sistema deve permitir aos usuários optar por receber notificações de novas postagens ou comentários nas postagens que os interessam.  |
+| O sistema deve ser acessível e compatível dispositivos móveis, tablets e desktops. |
+| O sistema deve ser acessível a todas as pessoas, incluindo aquelas com deficiências, seguindo diretrizes de acessibilidade da web. |
+| O sistema deve ser capaz de lidar com picos de tráfego durante eventos ou períodos de alta demanda sem degradação significativa do desempenho.  |
 
 ## Propósito do Feed de Notícias:
   - O feed de notícias permitirá ao usuário obter as últimas atualizações sobre imóveis, eventos e descontos em bares e restaurantes e deixar seus comentários sobre a história dos locais, enriquecendo a comunidade e a experiência de outros usuários.
