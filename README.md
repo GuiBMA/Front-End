@@ -21,12 +21,12 @@
 
 | **Requisitos Funcionais** |
 |  --- |
-| o sistema deve exibir postagens de forma organizada e cronológica para os usuários.  |
-| o sistema deve permitir aos usuários filtrar as postagens por categorias, como "Imóveis Históricos", "Eventos" e "Descontos em Restaurantes".  |
-| o sistema deve permitir aos usuários deixar comentários nas postagens para interagir com outros usuários e fornecer feedback.  |
-| o sistema deve permitir aos administradores criar e publicar postagens no feed de notícias, incluindo texto, imagens, links e comentários solicitados pelos usuários. |
-| o sistema deve permitir aos administradores definir a visibilidade das postagens (pública, somente para usuários cadastrados, etc.).  |
-| o sistema deve permitir aos administradores editar ou remover suas próprias postagens, se necessário.  |
+| O sistema deve exibir postagens de forma organizada e cronológica para os usuários.  |
+| O sistema deve permitir aos usuários filtrar as postagens por categorias, como "Imóveis Históricos", "Eventos" e "Descontos em Restaurantes".  |
+| O sistema deve permitir aos usuários deixar comentários nas postagens para interagir com outros usuários e fornecer feedback.  |
+| O sistema deve permitir aos administradores criar e publicar postagens no feed de notícias, incluindo texto, imagens, links e comentários solicitados pelos usuários. |
+| O sistema deve permitir aos administradores definir a visibilidade das postagens (pública, somente para usuários cadastrados, etc.).  |
+| O sistema deve permitir aos administradores editar ou remover suas próprias postagens, se necessário.  |
 
 ## Requisitos Não Funcionais para o Feed de Notícias:
 
