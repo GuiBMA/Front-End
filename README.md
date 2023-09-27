@@ -45,7 +45,7 @@
 ## **Propósito do Feed de Notícias:**
   - O feed de notícias permitirá ao usuário obter as últimas atualizações sobre imóveis, eventos e descontos em bares e restaurantes e deixar seus comentários sobre a história dos locais, enriquecendo a comunidade e a experiência de outros usuários.
 
-## **Casos de Uso do Feed de Noticias:**
+## **Primeiro Caso de Uso do Feed de Noticias:**
 
 ### **Nome:**
   - Visualizar Feed de Notícias no Passeio Carioca
@@ -83,6 +83,51 @@
 ### **Fluxo Alternativo**:
     
   - Se o usuário não tiver uma conexão ativa com a internet, o sistema exibirá uma mensagem de erro e solicitará que o usuário verifique sua conexão antes de continuar.
+
+### Pós-condições:
+
+  - O usuário pode continuar navegando no feed de notícias para obter informações atualizadas sobre imóveis, eventos e ofertas em bares e restaurantes no Rio de Janeiro.
+
+  - O usuário pode interagir com as postagens, deixando curtidas e comentários, para compartilhar suas opiniões e experiências com outros usuários.
+
+## **Segundo Caso de Uso do Feed de Noticias:**
+
+### Nome : 
+  - Configurar Notificações de Eventos Locais.
+
+### Ator Principal: 
+  - Usuário Registrado.
+
+### Descrição: 
+  - Os usuários podem configurar notificações para receber informações em tempo real sobre eventos locais interessantes que estão acontecendo no Rio de Janeiro através do aplicativo Passeio Carioca.
+
+### Pré-condições:
+
+  - O usuário deve estar registrado e ter feito login na sua conta no Passeio Carioca.
+
+  - O aplicativo deve ter permissão para enviar notificações push para o dispositivo móvel do usuário.
+
+### Fluxo Principal de Eventos:
+
+  - O usuário registrado faz login na sua conta no aplicativo Passeio Carioca.
+
+  - O usuário navega até a seção de notificações ou configurações do aplicativo, onde pode gerenciar suas preferências de notificação.
+
+  - O usuário seleciona a opção para receber notificações de eventos locais.
+
+  - O aplicativo apresenta opções de personalização, como escolher tipos específicos de eventos (por exemplo, concertos, festivais, exposições de arte) ou definir um raio de localização para os eventos desejados.
+
+  - O usuário pode escolher receber notificações em tempo real para eventos recém-adicionados ou notificações diárias/resumos com informações sobre eventos futuros.
+
+  - Após definir suas preferências, o usuário salva as configurações.
+
+  - O sistema do Passeio Carioca monitora eventos locais que correspondem às preferências do usuário.
+
+  - Quando um evento que corresponde às preferências do usuário é adicionado ao sistema, o aplicativo envia uma notificação ao dispositivo móvel do usuário, informando sobre o evento e fornecendo detalhes relevantes, como data, hora, local e descrição.
+
+### Fluxos Alternativos:
+
+  - O usuário pode optar por desativar ou modificar suas preferências de notificação a qualquer momento, acessando a seção de configurações do aplicativo.
 
 ## **Protótipo no Figma**:
 
