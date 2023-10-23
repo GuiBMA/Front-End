@@ -1,87 +1,70 @@
-# ***Passeio Carioca***
+# Getting Started with Create React App
 
-## Resumo do App:
-- Para ver um resumo geral do App [Clique aqui.](https://github.com/GuiBMA/Front-End/blob/main/ResumodoAppPasseioCarioca.md)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 5W2H para o Feed de Notícias:
+## Available Scripts
 
-- **O Quê?** O feed de notícias será semelhante ao Instagram no que se refere ao design e à dinâmica de navegação, e permitirá aos usuários visualizar postagens sobre os imóveis, eventos e anúncios de descontos em bares e restaurantes.
+In the project directory, you can run:
 
-- **Como?** O feed será rankeado por atualização mais recente. A publicação contará com um arquivo de imagem e um texto localizado abaixo da imagem. Apenas o administrador publicará imóveis, anúncios e comentários solicitados pelos usuários. O usuário poderá curtir e comentar (solicitar publicação de comentário).
+### `npm start`
 
-- **Quem?** Os usuários serão turistas, visitantes e moradores interessados em explorar a rica arquitetura e história dos imóveis no Rio de Janeiro.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- **Por Quê?** O feed de notícias permitirá ao usuário obter as últimas atualizações sobre imóveis, eventos e descontos em bares e restaurantes e deixar seus comentários sobre a história dos locais, enriquecendo a comunidade e a experiência de outros usuários.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- **Onde?** Dentro do aplicativo web "Passeio Carioca".
+### `npm test`
 
-- **Quando?** O usuário irá utilizar o sistema quando estiver buscando notícias turísticas para inspiração de viagens, destacando destinos históricos e culturais, locais icônicos e conexões com figuras famosas, tornando as viagens mais significativas e autênticas.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Requisitos Funcionais para o Feed de Notícias:
+### `npm run build`
 
-| **Requisitos Funcionais** |
-|  --- |
-| O sistema deve exibir postagens de forma organizada e cronológica para os usuários. |
-| O sistema deve permitir aos usuários filtrar as postagens por categorias, como "Imóveis Históricos", "Eventos" e "Descontos em Restaurantes". |
-| O sistema deve permitir aos usuários deixar comentários nas postagens para interagir com outros usuários e fornecer feedback. |
-| O sistema deve permitir aos administradores criar e publicar postagens no feed de notícias, incluindo texto, imagens, links e comentários solicitados pelos usuários. |
-| O sistema deve permitir aos administradores definir a visibilidade das postagens (pública, somente para usuários cadastrados, etc.). |
-| O sistema deve permitir aos administradores editar ou remover suas próprias postagens, se necessário. |
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Requisitos Não Funcionais para o Feed de Notícias:
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-| **Requisitos Não Funcionais** |
-|  --- |
-| O sistema deve permitir aos usuários compartilhar postagens do feed em redes sociais populares, como Facebook, Twitter e Instagram. |
-| O sistema deve permitir aos usuários optar por receber notificações de novas postagens ou comentários nas postagens que os interessam. |
-| O sistema deve ser compatível com dispositivos móveis, tablets e desktops. |
-| O sistema deve funcionar em todos os browsers. |
-| O sistema deve ser acessível a todas as pessoas, incluindo aquelas com deficiências, seguindo diretrizes de acessibilidade da web. |
-| O sistema deve ser capaz de lidar com picos de tráfego durante eventos ou períodos de alta demanda sem degradação significativa do desempenho. |
-| O sistema deve ser desenvolvido em React. |
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Propósito do Feed de Notícias:
-  - O feed de notícias permitirá ao usuário obter as últimas atualizações sobre imóveis, eventos e descontos em bares e restaurantes e deixar seus comentários sobre a história dos locais, enriquecendo a comunidade e a experiência de outros usuários.
+### `npm run eject`
 
-## Casos de Uso do Feed de Noticias:
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### Nome:
-  - Visualizar Feed de Notícias no Passeio Carioca
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-### Descrição:
-  - Objetivo: O objetivo deste caso de uso é permitir que os usuários registrados no aplicativo Passeio Carioca visualizem o feed de notícias para obter informações atualizadas sobre imóveis, eventos e descontos em bares e restaurantes no Rio de Janeiro.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-### Atores:
-  - Ator Principal: Usuário Cadastrado
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### Pré-condições:
-  - O usuário já está logado na sua conta do Passeio Carioca.
-    
-  - O usuário tem uma conexão ativa com a internet.
-    
-  - O aplicativo está funcionando corretamente.
+## Learn More
 
-### Fluxo Principal:
-  - O usuário abre o aplicativo do Passeio Carioca.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-  - O sistema exibe a tela inicial do aplicativo.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-  - O usuário seleciona a opção "Feed de Notícias" na barra de navegação/menu principal.
+### Code Splitting
 
-  - O sistema carrega o feed de notícias, que inclui postagens relacionadas a imóveis, eventos e descontos em bares e restaurantes no Rio de Janeiro.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-  - O usuário rola verticalmente para percorrer todo o  feed de notícias.
+### Analyzing the Bundle Size
 
-  - O sistema exibe as postagens, cada uma contendo:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-  - Uma imagem relacionada ao imóvel, evento ou oferta de restaurante.
-  
-  - Um texto descritivo que fornece informações sobre o item destacado na postagem.
+### Making a Progressive Web App
 
-### Fluxo Alternativo:
-    
-  - Se o usuário não tiver uma conexão ativa com a internet, o sistema exibirá uma mensagem de erro e solicitará que o usuário verifique sua conexão antes de continuar.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-## Protótipo no Figma:
+### Advanced Configuration
 
-  - Para ver o protótipo no Figma [Clique aqui.](https://www.figma.com/file/TZKPPiPGJN272c5gvNoLDU/Untitled?type=design&node-id=0%3A1&mode=design&t=a8n63SUSurKuNbyY-1)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
