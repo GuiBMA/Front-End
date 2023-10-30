@@ -1,0 +1,37 @@
+Caso de Uso:
+
+Nome : Contribuir com Conteúdo Local.
+
+Ator Principal: Usuário Registrado.
+
+Descrição: Os usuários registrados podem contribuir com informações relevantes sobre locais, eventos ou atrações no Rio de Janeiro para compartilhar com outros usuários do "Passeio Carioca".
+
+Pré-condições:
+
+- O usuário deve estar registrado e ter feito login na sua conta no Passeio Carioca.
+- O usuário deve ter acesso à função de contribuição no aplicativo.
+
+Fluxo Principal de Eventos:
+
+O usuário registrado faz login na sua conta no aplicativo Passeio Carioca.
+
+O usuário acessa a função de contribuição no aplicativo, que pode ser acessada a partir do menu principal ou de uma seção dedicada à contribuição de conteúdo.
+
+O usuário seleciona o tipo de conteúdo que deseja contribuir. Isso pode incluir, por exemplo, avaliações de restaurantes, recomendações de passeios, dicas de atrações, relatórios de eventos ou outras informações relevantes para visitantes ou moradores locais.
+
+O usuário preenche os detalhes necessários, que podem variar dependendo do tipo de conteúdo selecionado. Por exemplo:
+
+- Para avaliações de restaurantes, o usuário pode fornecer informações sobre o nome do restaurante, localização, classificação, comentários e fotos.
+- Para recomendações de passeios, o usuário pode descrever o local, incluir dicas e sugestões, e adicionar imagens se desejar.
+
+O usuário pode adicionar tags ou categorias relevantes para ajudar na classificação do conteúdo.
+
+Após preencher todos os detalhes, o usuário tem a opção de revisar e editar as informações antes de enviar.
+
+O sistema do Passeio Carioca recebe a contribuição e a processa para publicação.
+
+O conteúdo contribuído pelo usuário é publicado no feed de notícias ou em uma seção dedicada ao conteúdo gerado pelos usuários, onde outros usuários podem visualizá-lo e interagir com ele.
+
+Fluxos Alternativos:
+
+Se o conteúdo contribuído não atender aos critérios de qualidade ou violar as políticas do "Passeio Carioca", ele pode ser revisado e moderado pela equipe de administração antes de ser publicado.
