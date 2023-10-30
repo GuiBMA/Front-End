@@ -1,6 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
+import "leaflet/dist/leaflet.css";
+
+import { MapContainer, Tilelayer } from "react-leaflet";
+
 function App() {
   return (
     <div className="App">
@@ -18,7 +22,11 @@ function App() {
           Learn React
         </a>
       </header>
+      <MapContainer center={[22.9068, 43.1729]} zoom={15}>
+        <TileLayer url='https://tile.openstreetmap.org/{z}/{x}/{y}.png'/>
+      </MapContainer>
     </div>
+    
   );
 }
 
