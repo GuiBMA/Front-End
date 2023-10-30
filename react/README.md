@@ -1,70 +1,13 @@
-# Getting Started with Create React App
+# Integração do Google Maps com React usando Leaflet
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este repositório demonstra a integração de mapas interativos em um aplicativo React usando a biblioteca Leaflet. Aqui está o motivo pelo qual escolhemos a biblioteca Leaflet para implementar mapas interativos em nosso projeto React:
 
-## Available Scripts
+## Por que Leaflet?
 
-In the project directory, you can run:
+- **Leve e Flexível:** Leaflet é uma biblioteca JavaScript leve e altamente flexível projetada especificamente para criar mapas interativos. Ela é fácil de usar e não adiciona muito peso ao seu projeto, o que a torna uma escolha ideal para aplicativos da web.
 
-### `npm start`
+- **Comunidade Ativa:** A biblioteca Leaflet possui uma comunidade ativa e uma ampla base de usuários. Isso significa que você pode encontrar uma grande quantidade de recursos, plugins e suporte online.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Recursos Avançados:** Leaflet oferece uma série de recursos avançados para criação de mapas interativos, incluindo marcadores personalizados, polígonos, interações de zoom e pan, entre outros.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Integração com React:** Leaflet pode ser facilmente integrado em aplicativos React. Existem bibliotecas e componentes prontos que facilitam a incorporação de mapas Leaflet em seus aplicativos React.
