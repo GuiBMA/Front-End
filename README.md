@@ -132,6 +132,7 @@
 ## **API do mapa**
 
   - Para acessar a API do Leafet [Clique aqui.](https://react-leaflet.js.org/docs/api-map/)
+  - Para acessar Readme do React [Clique aqui.](https://github.com/GuiBMA/Front-End/tree/main/react#readme)
 
 ## **Protótipo no Figma**:
 
