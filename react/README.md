@@ -12,9 +12,8 @@ Este repositório demonstra a integração de mapas interativos em um aplicativo
 
 - **Integração com React:** Leaflet pode ser facilmente integrado em aplicativos React. Existem bibliotecas e componentes prontos que facilitam a incorporação de mapas Leaflet em seus aplicativos React.
 
-# Documentação
+# Documentação (Introduction)
 
-**Introduction**
 - Core concepts
 React Leaflet provides bindings between React and Leaflet. It does not replace Leaflet, but leverages it to abstract Leaflet layers as React components. As such, it can behave differently from how other React components work, notably:
 
