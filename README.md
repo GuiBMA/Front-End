@@ -137,3 +137,6 @@
 ## **Protótipo no Figma**:
 
   - Para ver o protótipo no Figma [Clique aqui.](https://www.figma.com/file/TZKPPiPGJN272c5gvNoLDU/Untitled?type=design&node-id=0%3A1&mode=design&t=a8n63SUSurKuNbyY-1)
+
+## **Aplicação React**:
+  - Acesse a aplicação react. [Clique aqui.](https://github.com/GuiBMA/Front-End/tree/main/react)
