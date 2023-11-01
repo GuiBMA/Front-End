@@ -1,4 +1,4 @@
-# Integração do Google Maps com React usando Leaflet
+# React usando a biblioteca Leaflet
 
 Este repositório demonstra a integração de mapas interativos em um aplicativo React usando a biblioteca Leaflet. Aqui está o motivo pelo qual escolhemos a biblioteca Leaflet para implementar mapas interativos em nosso projeto React:
 
