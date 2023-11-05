@@ -31,6 +31,34 @@ function App() {
     {
       geocode: [-22.8980, -43.1853],
       popUp: "Pedra do Sal"
+    },
+    {
+      geocode: [-22.984216021674793, -43.20474543015302],
+      popUp: "Edifício Estrela"
+    },
+    {
+      geocode: [-22.964621816399756, -43.17811746485032],
+      popUp: "Edifício Alagoas"
+    },
+    {
+      geocode: [-22.98111206899615, -43.20446804872199],
+      popUp: "Fonseca e Silva"
+    },
+    {
+      geocode: [-22.94318027899566, -43.18666209839573],
+      popUp: "Condomínio Les Palais Botafogo"
+    },
+    {
+      geocode: [-22.948466935789078, -43.163785508613735],
+      popUp: "Edifício Urca"
+    },
+    {
+      geocode: [-22.9006409968203, -43.17613565685323],
+      popUp: "Casa França-Brasil"
+    },
+    {
+      geocode: [-22.910748657537425, -43.17602780204663],
+      popUp: "Edifício Natal"
     }
   ];
 
