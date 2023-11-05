@@ -1,23 +1,23 @@
-npm install react-leaflet leaflet
+// npm install react-leaflet leaflet
 
 
-import React from 'react';
-import { Map, TileLayer, Marker, Popup } from 'react-leaflet';
+// import React from 'react';
+// import { Map, TileLayer, Marker, Popup } from 'react-leaflet';
 
-const MyMap = () => {
-  const center = [40.7128, -74.0060]; // Coordenadas de Nova Iorque como exemplo
+// const MyMap = () => {
+//   const center = [40.7128, -74.0060]; // Coordenadas de Nova Iorque como exemplo
 
-  return (
-    <Map center={center} zoom={12} style={{ width: '100%', height: '400px' }}>
-      <TileLayer
-        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-      />
-      <Marker position={center}>
-        <Popup>Meu Marcador</Popup>
-      </Marker>
-    </Map>
-  );
-}
+//   return (
+//     <Map center={center} zoom={12} style={{ width: '100%', height: '400px' }}>
+//       <TileLayer
+//         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+//         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+//       />
+//       <Marker position={center}>
+//         <Popup>Meu Marcador</Popup>
+//       </Marker>
+//     </Map>
+//   );
+// }
 
-export default MyMap;
+// export default MyMap;
