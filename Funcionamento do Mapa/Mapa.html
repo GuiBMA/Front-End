@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feed de Notícias</title>
+    <style>
+        
+    </style>
+</head>
+<body>
+    <div class="news-feed">
+        <div class="news-item">
+            <h2>Nome do Lugar 1</h2>
+            <img class="news-image" src="imagem_lugar_1.jpg" alt="Nome do Lugar 1">
+            <p>Descrição do local 1.</p>
+            <button onclick="mostrarMapa('mapa1')">Mostrar Mapa</button>
+            <div class="map" id="mapa1">
+                <!-- Aqui você pode incorporar um mapa usando uma API de mapa, como o Google Maps. -->
+                <!-- Certifique-se de incluir a lógica JavaScript para exibir o mapa ao clicar no botão. -->
+            </div>
+        </div>
+
+        <div class="news-item">
+            <h2>Nome do Lugar 2</h2>
+            <img class="news-image" src="imagem_lugar_2.jpg" alt="Nome do Lugar 2">
+            <p>Descrição do local 2.</p>
+            <button onclick="mostrarMapa('mapa2')">Mostrar Mapa</button>
+            <div class="map" id="mapa2">
+                <!-- Mapa para o segundo local -->
+            </div>
+        </div>
+
+        <!-- Adicione mais itens de notícias conforme necessário -->
+    </div>
+
+    <script>
+        function mostrarMapa(mapId) {
+            var map = document.getElementById(mapId);
+            map.style.display = 'block'; // Exibe o mapa quando o botão é clicado
+            // Aqui você pode adicionar a lógica para exibir o mapa, como usando a API do Google Maps.
+        }
+    </script>
+</body>
+</html>
