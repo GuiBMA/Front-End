@@ -47,19 +47,88 @@ const newsFeedData = [
 
 const NewsFeedItem = ({ item }) => {
   return (
-    <div style={{ border: '1px solid #ccc', margin: '10px', padding: '10px' }}>
-      <button onClick={() => console.log('Back clicked')}>Voltar</button>
-      <h2>{item.title}</h2>
-      <img src={require(item.imagePath)} alt={item.title} style={{ width: '25em', height: '25em' }} />
-      <p>{item.content}</p>
-      <button onClick={() => console.log('Mapa')}>Botão para o mapa</button>
-      <div>
-        <button onClick={() => console.log('Curtir')}>Botão de curtir</button>
-        <button onClick={() => console.log('Compartilhar')}>Botão de compartilhar</button>
-        <button onClick={() => console.log('Comentar')}>Botão de comentar</button>
+    <div style={styles.container}>
+      <button style={styles.backButton} onClick={() => console.log('Back clicked')}>Voltar</button>
+      <h2 style={styles.title}>{item.title}</h2>
+      {/* <img 
+        src={require(item.imagePath)} 
+        alt={item.title} 
+        style={styles.image}
+      /> */}
+      <p style={styles.content}>{item.content}</p>
+      <button style={styles.mapButton} onClick={() => console.log('Mapa')}>Botão para o mapa</button>
+      <div style={styles.buttonsContainer}>
+        <button style={styles.button} onClick={() => console.log('Curtir')}>Botão de curtir</button>
+        <button style={styles.button} onClick={() => console.log('Compartilhar')}>Botão de compartilhar</button>
+        <button style={styles.button} onClick={() => console.log('Comentar')}>Botão de comentar</button>
       </div>
     </div>
   );
+};
+
+const styles = {
+  container: {
+    border: '1px solid #ccc',
+    margin: '10px',
+    padding: '10px',
+    width: '60%', 
+    maxWidth: '600px',
+    borderRadius: '15px',
+    backgroundColor: 'white',
+    boxShadow: '0 4px 8px 0 rgba(0,0,0,0.2)',
+    display: 'flex',
+    position: 'relative',
+    flexDirection: 'column',
+    alignItems: 'center'
+  },
+  backButton: {
+    position: 'absolute',
+    top: '10px',
+    left: '10px',
+    color: 'blue',
+    border: 'none',
+    backgroundColor: 'transparent',
+    cursor: 'pointer',
+    marginBottom: '10px'
+  },
+  title: {
+    fontWeight: 'bold',
+    color: '#333'
+  },
+  image: {
+    width: '100%',
+    height: 'auto',
+    borderRadius: '10px',
+    objectFit: 'cover'
+  },
+  content: {
+    color: '#666',
+    textAlign: 'justify'
+  },
+  mapButton: {
+    backgroundColor: '#ff4500',
+    color: 'white',
+    border: 'none',
+    padding: '10px 20px',
+    borderRadius: '5px',
+    cursor: 'pointer',
+    marginTop: '10px'
+  },
+  buttonsContainer: {
+    display: 'flex',
+    justifyContent: 'space-between',
+    marginTop: '10px',
+    width: '100%'
+  },
+  button: {
+    margin: '0 10px',
+    backgroundColor: '#008CBA',
+    color: 'white',
+    border: 'none',
+    padding: '10px 20px',
+    borderRadius: '5px',
+    cursor: 'pointer'
+  }
 };
 
 const NewsFeed = () => {
