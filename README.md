@@ -140,3 +140,6 @@
 
 ## **Aplicação React**:
   - Acesse a aplicação react. [Clique aqui.](https://github.com/GuiBMA/Front-End/tree/main/react)
+
+## **Quem Somos**:
+- Acesse no link ao lado "Quem somos". [Clique aqui.](https://acamaz48.github.io/Front_123/)
